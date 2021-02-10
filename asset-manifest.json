@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-SearchFunctionality/static/css/main.df11db50.chunk.css",
+    "main.js": "/React-SearchFunctionality/static/js/main.1fc0812a.chunk.js",
+    "main.js.map": "/React-SearchFunctionality/static/js/main.1fc0812a.chunk.js.map",
+    "runtime-main.js": "/React-SearchFunctionality/static/js/runtime-main.85492296.js",
+    "runtime-main.js.map": "/React-SearchFunctionality/static/js/runtime-main.85492296.js.map",
+    "static/css/2.31461e4f.chunk.css": "/React-SearchFunctionality/static/css/2.31461e4f.chunk.css",
+    "static/js/2.7a0fbddb.chunk.js": "/React-SearchFunctionality/static/js/2.7a0fbddb.chunk.js",
+    "static/js/2.7a0fbddb.chunk.js.map": "/React-SearchFunctionality/static/js/2.7a0fbddb.chunk.js.map",
+    "index.html": "/React-SearchFunctionality/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/React-SearchFunctionality/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.df11db50.chunk.css.map": "/React-SearchFunctionality/static/css/main.df11db50.chunk.css.map",
+    "static/js/2.7a0fbddb.chunk.js.LICENSE.txt": "/React-SearchFunctionality/static/js/2.7a0fbddb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-SearchFunctionality/static/media/Capture_it_2.90e63aa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85492296.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.7a0fbddb.chunk.js",
+    "static/css/main.df11db50.chunk.css",
+    "static/js/main.1fc0812a.chunk.js"
+  ]
+}
